@@ -8,4 +8,4 @@ This project creates a model for the detection of hate speech against the Fulani
 
 # The corpus
 
-Click the [here](https://courpus) to access the corpus.
+
