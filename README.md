@@ -6,10 +6,10 @@
 
 This project creates a model for the detection of hate speech against the Fulani herdsmen in Nigeria. The collected tweets were annotated into 3 categories: hate (HT), non-hate (NHT) and indeterminate (IND). 
 
-#Link to paper
+# Link to paper
 https://arxiv.org/abs/2211.15262
 
-#DOI
+# DOI
  	
 https://doi.org/10.48550/arXiv.2211.15262
 
